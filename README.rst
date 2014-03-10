@@ -1,5 +1,20 @@
-Getting Started
+pyTWS
 ===============
+
+Welcome to the documentation of pyTWS, a complete from the grounds up implementation of 
+Interactive Broker's TWS API for Python.
+
+The purpose of these pages is not only to document the implementation, but also be a goto reference on the 
+use of IB's API even when using the official API or other custom implementations. This manual could be 
+better described as the documentation of the protocol, using pyTWS implementation as the API.
+
+Motivation
+----------
+So, what is the motivation to launch this manual and the new API?
+First of all I'm a big fan of Interactive Brokers, although with not other affiliation other than being a client.
+I believe IB represents exactly what a financial institution should be : global, transparent and cheap. While one 
+can argue that they don't target the investor beginner, I think the real investor or trader should go through the 
+effort of learning to use the platform and benefit from the good service.
 
 This document will show you how to get up and running with Read the Docs.
 
